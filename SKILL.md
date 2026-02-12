@@ -1,12 +1,10 @@
 ---
 name: stock-flow-analysis
-description: Analyze accumulations (stocks) and rates of change (flows) to understand
-  why systems respond slowly to intervention, where momentum builds, and why impatience
-  leads to oscillation.
+description: Analyze accumulations (stocks) and rates of change (flows) to understand why systems respond slowly to intervention, where momentum builds, and why impatience leads to oscillation.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - stock-flow-analysis
 - writing
