@@ -4,7 +4,8 @@ description: Analyze accumulations (stocks) and rates of change (flows) to under
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.5062
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - stock-flow-analysis
 - writing
